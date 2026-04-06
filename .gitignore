@@ -1,0 +1,33 @@
+# Datasets
+dataset/
+dataset_S2/
+dataset_old/
+dataset_src/
+data/
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Editor/OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temp/output
+*.log
+output/
+results/
